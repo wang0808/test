@@ -9,4 +9,9 @@ mkdir创建目录 grep过滤 rm删除文件 mv文件改名或移动位置 cp拷�
 3.网络基础 https://zhuanlan.zhihu.com/p/367739786
 4.shell脚本基础 https://www.jb51.net/article/256177.htm
 5.网络服务 vsftp https://blog.csdn.net/qq_29644709/article/details/109526662 NFS https://blog.csdn.net/qq_41959899/article/details/105899689
-samba服务器 https://blog.csdn.net/weixin_54217950/article/details/122270411
+samba服务器 https://blog.csdn.net/weixin_54217950/article/details/122270411 数据同步sersync https://zhuanlan.zhihu.com/p/489165901
+6.web服务 nginx https://blog.csdn.net/chuige2013/article/details/120747545 mongoDB https://blog.csdn.net/weixin_38612401/article/details/126424823
+Tomcat https://blog.csdn.net/love_Aym/article/details/80613183 redis https://blog.csdn.net/u014723137/article/details/125658176
+http https://zhuanlan.zhihu.com/p/29907174/
+7.docker
+8.负载均衡 https://blog.csdn.net/wanghangzhen/article/details/118554304
