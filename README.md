@@ -13,5 +13,11 @@ samba服务器 https://blog.csdn.net/weixin_54217950/article/details/122270411 �
 6.web服务 nginx https://blog.csdn.net/chuige2013/article/details/120747545 mongoDB https://blog.csdn.net/weixin_38612401/article/details/126424823
 Tomcat https://blog.csdn.net/love_Aym/article/details/80613183 redis https://blog.csdn.net/u014723137/article/details/125658176
 http https://zhuanlan.zhihu.com/p/29907174/
-7.docker
+7.docker docker使用教程 https://www.cnblogs.com/H4ck3R-XiX/p/12227485.html
 8.负载均衡 https://blog.csdn.net/wanghangzhen/article/details/118554304
+9.kubernetes https://www.cnblogs.com/chiangchou/p/k8s-1.html
+10.python
+11.自动化运维 ec:d6:8a:91:86:dc
+12.集群
+13.安全
+14.监控系统
